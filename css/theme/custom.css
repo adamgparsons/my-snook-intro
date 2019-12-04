@@ -400,3 +400,14 @@ body {
 .align-self-center {
   align-self: center;
 }
+.iframe-holder {
+  display: flex;
+}
+
+.shiba-iframe {
+  height: 600px;
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 2px;
+  margin: 0 auto;
+}
